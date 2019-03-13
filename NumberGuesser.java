@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
 /**
- * A basic Number Guesser game.
+ * Try and guess a number between 1 and 100
  *
  * @author David Herring
  * @version 3/11/19
  */
-public class NumberGuesser
+public class NumberGuesser extends NumberGuesser
 {
     private static Scanner kb = new Scanner(System.in);
     
